@@ -56,23 +56,52 @@ flutter run
 
 ## Screenshots
 
-### Pokemon Homepage with no added favorites 
+
+
+## Pokemon Homepage with no added favorites 
+
+
 ![homepage with no favourites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/4f41405a-7ca8-4913-afd2-fe6df74fab6d)
 
-### Added to Favorites 
+
+
+## Added to Favorites 
+
+
 ![added to fovorites ](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/ce74814e-2869-4049-864f-291d443f792d)
 
-### Added to more then 4 Favorites 
+
+
+## Added to more then 4 Favorites 
+
+
 ![added more than 4 favorites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/57762915-b0cd-44df-bfae-d381cc5ba5b2)
 
-### Removing from favorites by clicking on favorite icon
+
+
+## Removing from favorites by clicking on favorite icon
+
+
+
 ![removing from favorites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/f786a475-3d3c-4522-861f-36ceea2fbef4)
 
-### Pokemon details when tapping on the card 
+
+
+
+## Pokemon details when tapping on the card 
+
+
 ![statistics of each pokemon card](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/abb08dc8-b582-471d-9787-dec8b62c9b38)
 
-### Pokemon details when tapping on the list tile
+
+
+
+## Pokemon details when tapping on the list tile
+
+
 ![statistics of pokemon list](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/e951e8f8-2976-428c-b389-ca371d438394)
+
+
 
 ## Acknowledgments
 - **Thanks to PokeAPI for providing the Pokemon data.**
