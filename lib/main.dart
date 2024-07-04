@@ -31,10 +31,8 @@ class MyApp extends StatelessWidget {
         title: 'Pokemon riverpod',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
-      
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.lightGreen),
           useMaterial3: true,
-
         ),
         home: const HomePage(),
       ),
