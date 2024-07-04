@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # pokemon_riverpod
 
 A new Flutter project.
@@ -128,3 +129,6 @@ flutter run
 
 
 >>>>>>> 8bce296a38af58961695164eba53acd09a59a6ce
+=======
+
+>>>>>>> 6d8d770a06db3476dd023e65508ad5e1747f8430
