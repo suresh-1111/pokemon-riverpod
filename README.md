@@ -1,22 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# pokemon_riverpod
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Pokemon Riverpod App
 
 Welcome to the **Pokemon Riverpod App**! This app allows you to explore a list of Pokemon characters and view detailed information about each one. You can also mark your favorite Pokemon characters and add them to your favorites list.
@@ -80,21 +62,23 @@ flutter run
 ## Pokemon Homepage with no added favorites 
 
 
-![homepage with no favourites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/4f41405a-7ca8-4913-afd2-fe6df74fab6d)
+![homepage with no favourites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/755e6219-f0b6-431b-bfa4-d1dd3f93fae9)
 
 
 
 ## Added to Favorites 
 
 
-![added to fovorites ](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/ce74814e-2869-4049-864f-291d443f792d)
+![added to fovorites ](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/382016dc-397d-4f6f-bfd4-6bad8428ce80)
+
 
 
 
 ## Added to more then 4 Favorites 
 
 
-![added more than 4 favorites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/57762915-b0cd-44df-bfae-d381cc5ba5b2)
+![added more than 4 favorites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/5a0e0b29-5409-458e-bce4-29a1c9a57730)
+
 
 
 
@@ -102,7 +86,8 @@ flutter run
 
 
 
-![removing from favorites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/f786a475-3d3c-4522-861f-36ceea2fbef4)
+![removing from favorites](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/82f05f7e-6147-4d66-8fa8-3ccbc228af16)
+
 
 
 
@@ -110,7 +95,8 @@ flutter run
 ## Pokemon details when tapping on the card 
 
 
-![statistics of each pokemon card](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/abb08dc8-b582-471d-9787-dec8b62c9b38)
+![statistics of each pokemon card](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/a93c49d1-12d9-4650-8a3c-78e4118701a9)
+
 
 
 
@@ -118,7 +104,7 @@ flutter run
 ## Pokemon details when tapping on the list tile
 
 
-![statistics of pokemon list](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/e951e8f8-2976-428c-b389-ca371d438394)
+![statistics of pokemon list](https://github.com/suresh-1111/pokemon-riverpod/assets/120545788/28d25998-9ae2-4f30-8a9c-1c2d8a869afc)
 
 
 
@@ -128,7 +114,4 @@ flutter run
 
 
 
->>>>>>> 8bce296a38af58961695164eba53acd09a59a6ce
-=======
 
->>>>>>> 6d8d770a06db3476dd023e65508ad5e1747f8430
